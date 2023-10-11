@@ -1,5 +1,8 @@
 ### Hi there 👋 im nick
 hELLO
+
+My name is Nicolas Tang
+I major in CS and plan to graduate in 2027
 <!--
 **nicktang11122/nicktang11122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
